@@ -1,0 +1,115 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #dfc5fe;
+}
+
+header {
+    margin-top: 2%;
+    background-color: #355070;
+    color: #f4f4f4;
+    text-align: center;
+}
+
+h1 {
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 48px;
+    text-align: center;
+    text-decoration: solid;
+}
+
+
+h2{
+    font-size: 36px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+#para1{
+    font-family: 'League Spartan', sans-serif;
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #e56b6f;
+}
+#para2{
+    color: #800080;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 24px;
+}
+
+#para3{
+    color: #c44900;
+    font-size: 24px;
+    font-family: 'Roboto', sans-serif;
+}
+#ooh{
+    text-transform: uppercase;
+}
+#hook{
+    
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#para4{
+    color: #283618  ;
+    font-family: 'League Spartan', sans-serif;
+    font-size: 24px;
+}
+#para5{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #d9534f;
+    font-size: 24px;
+}
+
+#para6{
+    color: #cbe34f;
+    font-size: 24px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+
+#para7{
+    color: #c44900;
+    font-size: 24px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+
+#para8{
+    color: #1c7fb0;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+}
+#para9{
+    color: #7e1406;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+}
+
+
+
+
+.lyrics{
+    text-align: center;
+    border: 2px solid;
+    border-radius: 4px;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: #fff;
+}
+
+section{
+    line-height: 1.5;
+}
+
+#author{
+    font-weight: 700;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+}
